@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "text": "Hey",
+    "author": {
+      "id": 1,
+      "name": "James",
+      "lastname": "Brown",
+      "age": 38,
+      "alias": "Arkam34",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Hello!",
+    "author": {
+      "id": 2,
+      "name": "Lalo",
+      "lastname": "Muñoz",
+      "age": 31,
+      "alias": "lalopro21",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 3,
+    "text": "How are you?",
+    "author": {
+      "id": 1,
+      "name": "James",
+      "lastname": "Brown",
+      "age": 38,
+      "alias": "Arkam34",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 4,
+    "text": "I'm doing good, you?",
+    "author": {
+      "id": 2,
+      "name": "Lalo",
+      "lastname": "Muñoz",
+      "age": 31,
+      "alias": "lalopro21",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Hey guys!",
+    "author": {
+      "id": 3,
+      "name": "Maura",
+      "lastname": "Linn",
+      "age": 33,
+      "alias": "mau.28",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 6,
+    "text": "Sup, Maur!",
+    "author": {
+      "id": 2,
+      "name": "Lalo",
+      "lastname": "Muñoz",
+      "age": 31,
+      "alias": "lalopro21",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 7,
+    "text": "Hi, Maura, how was your trip to Cancun?",
+    "author": {
+      "id": 1,
+      "name": "James",
+      "lastname": "Brown",
+      "age": 38,
+      "alias": "Arkam34",
+      "avatar": "url.avatar"
+    }
+  },
+  {
+    "id": 8,
+    "text": "I loved it!, the beach is so beautiful, and the food...de-li-cious",
+    "author": {
+      "id": 3,
+      "name": "Maura",
+      "lastname": "Linn",
+      "age": 33,
+      "alias": "mau.28",
+      "avatar": "url.avatar"
+    }
+  }
+]
